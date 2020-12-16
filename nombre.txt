@@ -1,0 +1,10 @@
+tajador
+cuaderno
+regla
+borrador
+lapicero
+cartuchera
+lapiz
+escuadra
+plumon
+libro
